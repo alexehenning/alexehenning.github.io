@@ -1,0 +1,27 @@
+h1{
+	color: pink;
+	text-align: right;
+	background: red;
+	font-size: 50px;
+}
+
+h3{
+	color: white;
+	background: black;
+}
+
+#personal{
+	color: purple;
+	font-size: 20px;
+}
+
+p{
+	color: orange;
+	font-size: 22px;
+	text-align: center;
+}
+img{
+	height: 150px;
+	padding: 30px 10px 0px 0px;
+	float: right;
+}
